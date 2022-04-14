@@ -1,0 +1,1 @@
+console.log (typeof name, typeof number, typeof dead, typeof height, money)
